@@ -1,0 +1,38 @@
+{
+  "name": "react-big-calendar-like-google-material-ui",
+  "version": "1.0.0",
+  "description": "Starter react for codesandbox",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@babel/core": "7.18.13",
+    "@emotion/react": "11.10.0",
+    "@emotion/styled": "11.10.0",
+    "@material-ui/core": "4.12.4",
+    "@material-ui/icons": "4.11.3",
+    "@mui/material": "5.10.2",
+    "axios": "0.27.2",
+    "moment": "2.24.0",
+    "react": "16.8.6",
+    "react-big-calendar-like-google": "0.0.3",
+    "react-dom": "16.8.6",
+    "react-icons": "4.4.0"
+  },
+  "devDependencies": {
+    "@types/node-sass": "3.10.32",
+    "@types/react": "16.4.16",
+    "@types/react-dom": "16.0.9",
+    "@types/react-transition-group": "2.0.14",
+    "babel-minify": "^0.4.3",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "node-sass": "^4.9.2",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
